@@ -1,0 +1,31 @@
+// app global css in SCSS form
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.border-radius {
+  border-radius: 20px!important;
+  padding-bottom: 5px;
+}
+
+.back-primary {
+  background: rgb(49, 214, 184);
+  background: -moz-linear-gradient(
+    180deg,
+    rgba(49, 214, 184, 0.22287193251533743) 0%,
+    rgba(0, 212, 255, 0) 100%
+  );
+  background: -webkit-linear-gradient(
+    180deg,
+    rgba(49, 214, 184, 0.22287193251533743) 0%,
+    rgba(0, 212, 255, 0) 100%
+  );
+  background: linear-gradient(
+    180deg,
+    rgba(49, 214, 184, 0.22287193251533743) 0%,
+    rgba(0, 212, 255, 0) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#31d6b8",endColorstr="#00d4ff",GradientType=1);
+}
