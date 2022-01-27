@@ -1,4 +1,4 @@
-# Quasar App (to-do)
+# To-do App
 
 A Quasar Framework app
 
