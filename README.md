@@ -1,6 +1,6 @@
 # To-do App
 
-A Quasar Framework app
+A DeElfos app
 
 ## Install the dependencies
 ```bash
