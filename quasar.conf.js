@@ -12,6 +12,9 @@ const { configure } = require('quasar/wrappers');
 
 module.exports = configure(function (ctx) {
   return {
+    bin: {
+      linuxAndroidStudioPath: "/snap/android-studio/current/android-studio/bin/studio.sh"
+     },
     // https://quasar.dev/quasar-cli/supporting-ts
     supportTS: false,
 
