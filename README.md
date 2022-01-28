@@ -2,6 +2,9 @@
 
 A DeElfos app
 
+# Preview with a android .apk
+https://drive.google.com/file/d/1BvrC8w7MMFkFfmR1aFVEIBjnEPiwVRdG/view?usp=sharing
+
 ## Install the dependencies
 ```bash
 yarn
